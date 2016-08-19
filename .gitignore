@@ -2,5 +2,8 @@
 __pycache__
 myvenv
 db.sqlite3
-/static
+/static/images
+/static/mptt
+/static/admin
+/static/ckeditor
 .DS_Store
